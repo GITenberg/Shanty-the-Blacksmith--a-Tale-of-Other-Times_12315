@@ -1,0 +1,35 @@
+_repo: Shanty-the-Blacksmith--a-Tale-of-Other-Times_12315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sherwood, Mrs. (Mary Martha)
+    aliases:
+    - Sherwood, Mrs.
+    - Sherwood, Mary Martha Butt
+    birthdate: 1775
+    deathdate: 1851
+    gutenberg_agent_id: '4312'
+    url: http://www.gutenberg.org/2009/agents/4312
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcsh 'Romanies -- England -- Juvenile fiction'
+- !lcsh 'Jews -- England -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Blacksmiths -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Abduction -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- GITenberg
+title: Shanty the Blacksmith; a Tale of Other Times
+url: http://www.gutenberg.org/ebooks/12315
